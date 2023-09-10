@@ -11,4 +11,4 @@ Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/
 
 
 
-+ 20230910完成ch02和ch03。修改了.git/info/exclude排除大文件
++ 20230910完成ch02和ch03。通过.gitignore忽略了dataset文件夹的上传！
