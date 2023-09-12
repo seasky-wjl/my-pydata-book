@@ -16,3 +16,5 @@ Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/
   配置GLFS重新上传了datasets目录（包含大文件）。
 
 + 20230911完成ch05和ch06。
+
++ 20230912完成ch07。
